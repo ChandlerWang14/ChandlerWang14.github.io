@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paer accepted by ICCV 2025!
+One paper accepted by ICCV 2025!

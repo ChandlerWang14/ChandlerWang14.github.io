@@ -24,6 +24,9 @@ ninja.data = [{
             },},{id: "news-two-papers-accepted-by-siggraph-2025",
           title: 'Two papers accepted by Siggraph 2025!',
           description: "",
+          section: "News",},{id: "news-one-paer-accepted-by-iccv-2025",
+          title: 'One paer accepted by ICCV 2025!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

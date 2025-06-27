@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.hku.hk'>The University of Hong Kong</a>.
+subtitle: <a href='https://www.hku.hk'>The University of Hong Kong</a>. <a href='https://scholar.google.com/citations?user=nKr8TJwAAAAJ&hl=en'>Google Scholar</a>.
 
 profile:
   align: right

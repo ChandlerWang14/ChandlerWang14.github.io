@@ -27,6 +27,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-accepted-by-iccv-2025",
           title: 'One paper accepted by ICCV 2025!',
           description: "",
+          section: "News",},{id: "news-one-paper-accepted-by-siggraph-asia-2025",
+          title: 'One paper accepted by Siggraph Asia 2025!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

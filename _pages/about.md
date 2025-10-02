@@ -27,9 +27,10 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year (starting from 2024) Ph.D. student at The University of Hong Kong, supervised by Prof. [Hengshuang Zhao](https://hszhao.github.io). 
+I am a second-year (starting from 2024) Ph.D. student at The University of Hong Kong, supervised by Prof. [Hengshuang Zhao](https://hszhao.github.io). 
 Before joining HKU, I got my bachelor degree in computer science at Peking University in July 2024. 
-My research interests lie in the field of deep learning and computer vision, especially for AIGC and multi-modal models. 
+My research interests lie in the field of deep learning and computer vision, especially for AIGC and multi-modal models.
+I am currently a research intern at TongYi Vision Intelligence Lab. 
 I enjoy exploring the world through my footsteps, my eyes, and taking photographs with my Nikon Zf 📷.
 You can contact me at yiyangwang [at] connect [dot] hku [dot] hk.
 

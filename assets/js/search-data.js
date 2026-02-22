@@ -30,6 +30,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-accepted-by-siggraph-asia-2025",
           title: 'One paper accepted by Siggraph Asia 2025!',
           description: "",
+          section: "News",},{id: "news-one-paper-accepted-by-cvpr-2026",
+          title: 'One paper accepted by CVPR 2026!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
